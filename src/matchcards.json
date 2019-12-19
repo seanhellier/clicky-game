@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/images/eight.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/ten.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/eight2.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/six2.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/six.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/seven2.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/seven.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/eight.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/nine2.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/nine.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/four.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/five.png",
+        "clicked": false
+    }
+]
