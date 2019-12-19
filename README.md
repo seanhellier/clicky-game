@@ -10,5 +10,5 @@ This is a react based web application that allows you to click on a random domin
 
 ### Deployment
 
-Heroku:  (https://clickity-clack.herokuapp.com/)!
-GitHub:  (https://github.com/mbizzle1464)
+Heroku:  (https://clicky-game-slh.herokuapp.com/)
+GitHub:  (https://github.com/seanhellier/clicky-game)
