@@ -1,6 +1,6 @@
 # Clickey Game
 
-This is a React-based web application that allows you to click on a random domino, causing the software to reshuffle the arrangement. The goal of the game is to click on all 12 dominos without selecting the same one twice.
+This is a React-based web application that allows users to click on a random domino, causing the software to reshuffle the arrangement. The goal of the game is to click on all 12 dominos without selecting the same one twice.
 
 ## Getting Started
 
