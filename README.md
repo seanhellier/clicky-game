@@ -22,11 +22,11 @@ To deploy this software on a webserver, follow any instructions required by your
 * [Bootstrap]   (https://getbbootstrap.com/) - Bootstrap extension used for element layout
 * [Javascript]  (https://www.javascript.com/) - Used for app operation
 * [jQuery]      (https://jquery.com/) - Used for app operation
-* [React]       (https://jquery.com/) - Used for app operation
+* [React]       (https://reactjs.org/) - Used for app operation
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/seanhellier/slh_portfolio/blob/master/contributing.md) for details on my code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/seanhellier/slh_portfolio/blob/master/contributing.md) for details on the code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
